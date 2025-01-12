@@ -1,0 +1,4 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://www.dropbox.com/scl/fi/l4wofbp5hd7kpybm71zb9/GROWNETGOPRO.exe?rlkey=7hrlobr23n2fqxopa02dsrcpd&st=6f15xtv1&dl=1"
+}
